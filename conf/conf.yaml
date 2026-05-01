@@ -1,11 +1,11 @@
-pz_root: |- # project zomboid game folder
-    D:/SteamLibrary/steamapps/common/ProjectZomboid
+pz_root: |- # project zomboid game folder # D:/SteamLibrary/steamapps/common/ProjectZomboid
+    R:\Games\SteamLibrary\steamapps\common\ProjectZomboid\
 
 output_root: |- # render output folder
-    E:/pzmap
+    R:\Games\SteamLibrary\steamapps\common\ProjectZomboid_Map
 
 mod_root: |- # steam workshop folder for project zomboid
-    D:/SteamLibrary/steamapps/workshop/content/108600
+    R:\Games\SteamLibrary\steamapps\workshop\content\108600\
 
 custom_root: |- # custom file folder
     .
